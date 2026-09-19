@@ -1,0 +1,12 @@
+{
+  "name": "Easy Checklist Lite",
+  "short_name": "Checklist Lite",
+  "description": "Una lista sencilla para organizar tus tareas.",
+  "lang": "es",
+  "start_url": "./index-lite.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#14532d",
+  "background_color": "#f5f7f2"
+}
